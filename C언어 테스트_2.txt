@@ -45,3 +45,17 @@ while(1)
 cout<< "정수 합 : " << sum;
 
 5. updown 게임을 완성하시오.
+
+int num = rand() % 100;
+int answer;
+while(1)
+{
+  cin >> answer;
+  if(num > answer)
+    cout<<"UP";
+  else if( num < answer)
+    cout<<"DOWN";
+  else
+    cout<<"정답!"
+}
+
