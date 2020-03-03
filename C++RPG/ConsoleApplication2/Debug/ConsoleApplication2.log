@@ -1,0 +1,83 @@
+﻿  GameManager.cpp
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\mapdraw.h(19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(57): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(61): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(76): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(79): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(85): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(86): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(91): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(92): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(100): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(101): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(107): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(113): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(114): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(125): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(127): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(132): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(210): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(214): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(215): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(231): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(236): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(240): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(195): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(197): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(209): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(227): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(229): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(232): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(252): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(253): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(254): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(255): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(256): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(257): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(258): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(261): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(269): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(275): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(271): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(278): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(298): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(299): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(300): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(301): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(307): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(317): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\gamemanager.cpp(309): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  Shop.cpp
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\mapdraw.h(19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(49): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(50): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(84): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(83): warning C4101: 'NextIndex' :참조되지 않은 지역 변수입니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(83): warning C4101: 'BeforeIndex' :참조되지 않은 지역 변수입니다.
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(126): warning C4101: 'weapon' :참조되지 않은 지역 변수입니다.
+  소스.cpp
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\mapdraw.h(19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...
+c:\users\rnal9\onedrive\바탕 화면\rnal94\참고\c++rpg정답코드\consoleapplication2\shop.cpp(78): warning C4715: 'Shop::GetTypeString': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ConsoleApplication2.vcxproj -> C:\Users\rnal9\OneDrive\바탕 화면\rnal94\참고\C++RPG정답코드\Debug\ConsoleApplication2.exe
