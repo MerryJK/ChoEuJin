@@ -1,5 +1,0 @@
-﻿  Minesweeper.cpp
-c:\users\rnal9\source\repos\minesweeper\minesweeper\minesweeper.h(39): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-c:\users\rnal9\source\repos\minesweeper\minesweeper\minesweeper.cpp(45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\rnal9\source\repos\minesweeper\minesweeper\minesweeper.cpp(107): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Minesweeper.vcxproj -> C:\Users\rnal9\source\repos\Minesweeper\Debug\Minesweeper.exe
